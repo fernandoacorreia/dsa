@@ -7,4 +7,5 @@ Data Structures and Algorithms.
 ```
 python -m venv myenv
 source ./myenv/bin/activate
+pip install -r ./requirements.txt
 ```
